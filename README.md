@@ -35,7 +35,7 @@ Options
       Icon size.  Default is 24.
 
   -t terminal
-      Terminal emulator to use.  Default is xterm.
+      Terminal emulator to use.  Default is st.
 ```
 
 To use it, you can redirect the output to a file and then feed it to `xmenu` by
